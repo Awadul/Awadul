@@ -44,7 +44,6 @@ I specialize in backend development with a pragmatic approach to real-time commu
 
 ## 📫 Connect With Me
 
-- **GitHub:** [github.com/Awadul](https://github.com/Awadul)  
 - **LinkedIn:** *https://www.linkedin.com/in/muhammad-awais-abdullah-0a588b330/*  
 - **Email:** *awaisabdullahm79@gmail.com*
 

@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=38BDF8&background=0D1117&multiline=true&repeat=false&center=true&vCenter=true&width=520&height=130&lines=%24+whoami+%E2%80%94+Muhammad+Awais+Abdullah;%24+role++%E2%80%94+Backend+%C2%B7+Full-Stack+%C2%B7+Real-time;%24+uni+++%E2%80%94+NUST+Islamabad%2C+CS+2027;%24+work+%E2%80%94+Freelancing+since+Jan+2025;%24+open+%E2%80%94+Internships+%C2%B7+Remote+%C2%B7+Freelance)](https://github.com/Awadul)
+<img src="terminal.svg" alt="terminal" width="600"/>
 
 <br>
 

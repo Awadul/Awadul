@@ -41,43 +41,42 @@ $ echo $OPEN_TO
 
 ---
 
-### Languages
+## Tech Stack
 
-<div align="center">
+<table width="100%" border="0" cellspacing="0" cellpadding="6">
+<tr>
+<td width="13%" valign="middle"><sub><b>Languages</b></sub></td>
+<td valign="middle">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,python&theme=dark&perline=4)](https://github.com/Awadul)
+[![langs](https://skillicons.dev/icons?i=js,ts,cpp,python&theme=dark&perline=8)](https://github.com/Awadul)
 
-</div>
+</td>
+</tr>
+<tr>
+<td width="13%" valign="middle"><sub><b>Backend</b></sub></td>
+<td valign="middle">
 
----
+[![backend](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark&perline=8)](https://github.com/Awadul)
 
-### Backend
+</td>
+</tr>
+<tr>
+<td width="13%" valign="middle"><sub><b>Frontend</b></sub></td>
+<td valign="middle">
 
-<div align="center">
+[![frontend](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=8)](https://github.com/Awadul)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark&perline=6)](https://github.com/Awadul)
+</td>
+</tr>
+<tr>
+<td width="13%" valign="middle"><sub><b>Data & Infra</b></sub></td>
+<td valign="middle">
 
-</div>
+[![data](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,linux&theme=dark&perline=8)](https://github.com/Awadul)
 
----
-
-### Frontend
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark&perline=6)](https://github.com/Awadul)
-
-</div>
-
----
-
-### Data & Infra
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,supabase,docker,linux&theme=dark&perline=6)](https://github.com/Awadul)
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 

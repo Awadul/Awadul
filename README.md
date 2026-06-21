@@ -90,9 +90,9 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 
 ## 📊 GitHub Stats
 
-<div align="left" width="100%">
+<div align="center">
 
-<table width="100%" border="none;">
+<table width="100%">
 <tr>
 <td align="center" width="50%">
 <h3>Overall Activity</h3>
@@ -108,7 +108,7 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 <tr>
 <td colspan="2" align="center">
 <h3>Contribution Streak</h3>
-<img width="80%" src="https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b" />
 </td>
 </tr>
 </table>

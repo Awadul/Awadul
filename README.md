@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Awadul/Awadul/main/terminal.svg" alt="terminal" width="600"/><img src="terminal.svg" alt="terminal" width="600"/>
+<img src="https://raw.githubusercontent.com/Awadul/Awadul/main/terminal.svg" alt="terminal" width="600"/>
 
 <br>
 

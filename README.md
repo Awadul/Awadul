@@ -92,14 +92,20 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 
 <div align="left" style="display:flex;flex-wrap:wrap;justify-content:center;gap:12px;">
 
-<h2 style="display: inline">Overall Activity</h2>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true&v=2" />
+<div class='stats-card' style='display: inline'>
+  <h2 style="display: inline">Overall Activity</h2>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true&v=2" />
+</div>
 
-<h2 style="display: inline" >  Language Breakdown </h2>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8&v=2" />
+<div class='stats-card' style='display: inline'>
+  <h2 style="display: inline" >  Language Breakdown </h2>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8&v=2" />
+</div>
 
-<h2 style="display: inline" >Contribution Streak</h2>
-<img height="180" src="https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b" />
+<div class='stats-card' style='display: inline'>
+  <h2 style="display: inline" >Contribution Streak</h2>
+  <img height="180" src="https://streak-stats.demolab.com/?    user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b" />
+</div>
 
 </div>
 

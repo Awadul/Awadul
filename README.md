@@ -92,8 +92,8 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 
 <div align="center">
 
-<table width="100%">
-<tr>
+<table width="100%" border="none">
+<tr border="none">
 <td align="center" width="50%">
 <h3>Overall Activity</h3>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true&v=2" />
@@ -105,7 +105,7 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 </td>
 </tr>
 
-<tr>
+<tr border="none">
 <td colspan="2" align="center">
 <h3>Contribution Streak</h3>
 <img width="100%" src="https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b" />

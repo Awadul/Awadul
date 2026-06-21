@@ -88,7 +88,7 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 

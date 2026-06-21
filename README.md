@@ -4,27 +4,13 @@
 
 </div>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-```bash
-$ whoami
-  Muhammad Awais Abdullah
+[![Terminal](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=1&pause=99999&color=38BDF8&background=0D1117&multiline=true&repeat=false&center=true&vCenter=true&width=520&height=130&lines=%24+whoami+%E2%80%94+Muhammad+Awais+Abdullah;%24+role++%E2%80%94+Backend+%C2%B7+Full-Stack+%C2%B7+Real-time;%24+uni+++%E2%80%94+NUST+Islamabad%2C+CS+2027;%24+work+%E2%80%94+Freelancing+since+Jan+2025;%24+open+%E2%80%94+Internships+%C2%B7+Remote+%C2%B7+Freelance)](https://github.com/Awadul)
 
-$ cat status.txt
-  Backend Engineer · Full-Stack · Real-time
-  NUST Islamabad — CS 2027
-  Freelancing since Jan 2025
+<br>
 
-$ echo $OPEN_TO
-  Internships · Remote Roles · Freelance
-```
-
-</td>
-<td width="45%" valign="middle" align="right">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=38BDF8&right=true&vCenter=true&width=290&lines=REST+APIs+that+don't+break.;Real-time+systems+that+scale.;Readable+code.+No+shortcuts.;Ships+fast.+No+corners+cut.)](https://github.com/Awadul)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1200&color=38BDF8&center=true&vCenter=true&width=420&lines=REST+APIs+that+don%27t+break.;Real-time+systems+that+scale.;Readable+code.+No+shortcuts.;Ships+fast.+No+corners+cut.)](https://github.com/Awadul)
 
 <br>
 
@@ -33,9 +19,7 @@ $ echo $OPEN_TO
 [![GitHub](https://img.shields.io/badge/@Awadul-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Awadul)
 ![Views](https://komarev.com/ghpvc/?username=Awadul&color=38bdf8&style=flat-square&label=views)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 

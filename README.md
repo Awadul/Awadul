@@ -91,26 +91,12 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<table>
-<tr>
-<td align="center">
-<h3>Overall Activity</h3>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true&v=2" />
-</td>
-
-<td align="center">
-<h3>Language Breakdown</h3>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8&v=2" />
-</td>
-
-<td align="center">
-<h3>Contribution Streak</h3>
-<img height="180" src="https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b" />
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">

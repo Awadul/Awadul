@@ -4,7 +4,7 @@
 
 **Backend Engineer · Full-Stack Developer · Real-time Systems**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Building+things+that+actually+work.;Node.js+%7C+React+%7C+PostgreSQL+%7C+Supabase;Open+to+internships+%26+freelance+work.)](https://github.com/Awadul)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=38BDF8&center=true&vCenter=true&width=480&lines=Building+things+that+actually+work.;Node.js+%7C+React+%7C+PostgreSQL;Real-time+systems+that+scale.)](https://github.com/Awadul)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-abdullah-0a588b330/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:awaisabdullahm79@gmail.com)
@@ -17,7 +17,7 @@
 
 ## 🚀 About
 
-CS student at NUST (Class of 2027), freelancing since early 2025. I work mostly on the backend — REST APIs, real-time systems, database design — but I'm comfortable across the stack. I build things that hold up under real usage, not just demo conditions.
+CS student at NUST (Class of 2027), freelancing since early 2025. I work mostly on the backend — REST APIs, real-time systems, database design — but I'm comfortable across the stack. I build things that work, scale, and solve real problems.
 
 I care about code that's readable, systems that scale, and shipping fast without cutting corners.
 
@@ -88,15 +88,21 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&rank_icon=github)
+### Overall Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6)
+![Awais's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true&v=2)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)
+### Language Breakdown
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=8&v=2)
+
+### Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Awadul&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&strokeColor=1e293b)
 
 </div>
 

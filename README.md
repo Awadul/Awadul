@@ -163,13 +163,7 @@ Need someone who can ship backend systems, build full-stack apps, or debug somet
 </td>
 <td valign="middle" align="right" width="42%">
 
-```
-currently available for:
-  ✓  Backend engineering
-  ✓  Full-stack development
-  ✓  AI / LLM integrations
-  ✓  Real-time systems
-```
+<img src="available.svg" alt="available" width="260"/>
 
 </td>
 </tr>

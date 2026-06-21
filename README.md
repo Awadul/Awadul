@@ -90,9 +90,9 @@ Systems-level web scraper with resume-from-checkpoint, smart ranking, and memory
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left" width="100%">
 
-<table width="100%">
+<table width="100%" border="none;">
 <tr>
 <td align="center" width="50%">
 <h3>Overall Activity</h3>

@@ -134,9 +134,9 @@ Discord selfbot that monitors servers for Pokémon spawns and auto-catches them 
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8&text_color=e2e8f0&count_private=true" />
-&nbsp;
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=e2e8f0&langs_count=6" />
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=Awadul&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Awadul&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 <br><br>
 

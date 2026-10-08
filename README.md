@@ -1,4 +1,7 @@
+<picture>
+<source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Awadul/Awadul/835ea1dc51c95b3398d8db222f0435e5c8b00beb/neon-profile-mobile.svg" />
 <img src="https://raw.githubusercontent.com/Awadul/Awadul/de43684cf1e09dcabc4283516b77773e273dd323/neon-profile.svg" width="100%" alt="Awais Abdullah — Full-stack developer, NUST CS 2027. Open to internships and freelance work. Projects: AI CV Platform, NUST Student Guide, and DiscordQuestManager contribution. TypeScript, React, Next.js, Node.js, Python, PostgreSQL." />
+</picture>
 
 <p align="center"><a href="https://cv.commit-offshore.com/">01 / AI CV Platform</a> &nbsp; · &nbsp; <a href="https://github.com/Awadul/NUST-Policy-Document-RAG-System">02 / Student Guide</a> &nbsp; · &nbsp; <a href="https://github.com/Mid0aria/DiscordQuestManager/pull/1">03 / Contribution</a></p>
 

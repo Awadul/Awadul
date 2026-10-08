@@ -1,1 +1,45 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1150" viewBox="0 0 600 1150">
+<title>Awais Abdullah — Full-stack developer</title>
+<defs>
+<linearGradient id="ink">
+<stop stop-color="#66fff0"/>
+<stop offset="1" stop-color="#b38aff"/>
+</linearGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M40 0H0V40" fill="none" stroke="#a8b6ff" stroke-opacity=".06"/>
+</pattern>
+<style>text{font-family:Arial,sans-serif}.m{font-family:Consolas,monospace}.orbit{transform-origin:445px 187px;animation:spin 24s linear infinite}.flow{animation:flow 8s linear infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes flow{to{stroke-dashoffset:-540}}@media(prefers-reduced-motion:reduce){.orbit,.flow{animation:none}}</style>
+</defs>
+<rect width="600" height="1150" fill="#080b18"/>
+<rect width="600" height="1150" fill="url(#grid)"/>
+<g class="orbit">
+<circle cx="445" cy="187" r="108" stroke="#a58aff" stroke-opacity=".4" fill="none" stroke-dasharray="130 549" stroke-width="3"/>
+<circle cx="445" cy="79" r="6" fill="#67ffea"/>
+</g>
+<text x="40" y="54" fill="#60f6e6" font-size="21" class="m">AWADUL / BUILD + CREATE</text>
+<text x="40" y="156" fill="#f1f5ff" font-size="86" font-weight="800" letter-spacing="-5">AWAIS</text>
+<text x="40" y="237" fill="url(#ink)" font-size="81" font-weight="800" letter-spacing="-5">ABDULLAH_</text>
+<text x="40" y="284" fill="#dce6ff" font-size="24" class="m">FULL-STACK DEVELOPER</text>
+<text x="40" y="338" fill="#c1ff6b" font-size="22" class="m">OPEN TO INTERNSHIPS + FREELANCE</text>
+<text x="40" y="375" fill="#9caacc" font-size="22" class="m">NUST / CS 2027</text>
+<text x="40" y="451" fill="#8e9dbf" font-size="22" class="m">SELECTED WORK</text>
+<text x="40" y="512" fill="#61f7e6" font-size="24" class="m">01</text>
+<text x="96" y="512" fill="#eef4ff" font-size="31" font-weight="700">AI CV Platform</text>
+<text x="96" y="554" fill="#acbad6" font-size="24">Resume parsing + scoring</text>
+<text x="96" y="593" fill="#61f7e6" font-size="21" class="m">Next.js / OpenAI / PostgreSQL</text>
+<path d="M40 622H560" stroke="#8396bd" stroke-opacity=".16"/>
+<text x="40" y="680" fill="#b5a4ff" font-size="24" class="m">02</text>
+<text x="96" y="680" fill="#eef4ff" font-size="31" font-weight="700">NUST Student Guide</text>
+<text x="96" y="722" fill="#acbad6" font-size="24">Policies → searchable answers</text>
+<text x="96" y="761" fill="#b5a4ff" font-size="21" class="m">Python / Custom retrieval</text>
+<path d="M40 790H560" stroke="#8396bd" stroke-opacity=".16"/>
+<text x="40" y="848" fill="#c1ff6b" font-size="24" class="m">03</text>
+<text x="96" y="848" fill="#eef4ff" font-size="31" font-weight="700">DiscordQuestManager</text>
+<text x="96" y="890" fill="#acbad6" font-size="24">Proposed compatibility fixes</text>
+<text x="96" y="929" fill="#c1ff6b" font-size="21" class="m">TypeScript / React</text>
+<path d="M40 958H560" stroke="#8396bd" stroke-opacity=".16"/>
+<text x="40" y="1023" fill="#acbad6" font-size="23" class="m">TS / REACT / NEXT.JS / NODE</text>
+<text x="40" y="1060" fill="#acbad6" font-size="23" class="m">PYTHON / POSTGRESQL</text>
+<text x="40" y="1110" fill="#8798ba" font-size="20" class="m">DESIGN → BUILD → DEBUG → SHIP</text>
+<path class="flow" d="M0 1140H600" stroke="url(#ink)" stroke-width="3" stroke-dasharray="150 120"/>
+</svg>

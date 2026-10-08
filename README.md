@@ -1,5 +1,5 @@
 <picture>
-<source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Awadul/Awadul/835ea1dc51c95b3398d8db222f0435e5c8b00beb/neon-profile-mobile.svg" />
+<source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Awadul/Awadul/634d3fd65df1c26b4d1aee0ba585b29f32e236c7/neon-profile-mobile.svg" />
 <img src="https://raw.githubusercontent.com/Awadul/Awadul/de43684cf1e09dcabc4283516b77773e273dd323/neon-profile.svg" width="100%" alt="Awais Abdullah — Full-stack developer, NUST CS 2027. Open to internships and freelance work. Projects: AI CV Platform, NUST Student Guide, and DiscordQuestManager contribution. TypeScript, React, Next.js, Node.js, Python, PostgreSQL." />
 </picture>
 

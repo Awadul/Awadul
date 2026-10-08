@@ -1,21 +1,5 @@
-<p><samp>AWADUL / FULL-STACK DEVELOPER</samp></p>
-<h1><samp>Awais Abdullah_</samp></h1>
+<img src="https://raw.githubusercontent.com/Awadul/Awadul/de43684cf1e09dcabc4283516b77773e273dd323/neon-profile.svg" width="100%" alt="Awais Abdullah — Full-stack developer, NUST CS 2027. Open to internships and freelance work. Projects: AI CV Platform, NUST Student Guide, and DiscordQuestManager contribution. TypeScript, React, Next.js, Node.js, Python, PostgreSQL." />
 
-Web apps. Backend systems. Practical automation.<br />
-NUST · CS 2027 · Open to internships &amp; freelance work
+<p align="center"><a href="https://cv.commit-offshore.com/">01 / AI CV Platform</a> &nbsp; · &nbsp; <a href="https://github.com/Awadul/NUST-Policy-Document-RAG-System">02 / Student Guide</a> &nbsp; · &nbsp; <a href="https://github.com/Mid0aria/DiscordQuestManager/pull/1">03 / Contribution</a></p>
 
-<br />
-
-<p><samp>SELECTED WORK</samp></p>
-
-<p><samp>01 /</samp> &nbsp; <b><a href="https://cv.commit-offshore.com/">AI CV Platform ↗</a></b><br />Resume parsing &amp; candidate scoring.<br /><sub>Next.js / OpenAI / PostgreSQL / Supabase</sub></p>
-
-<p><samp>02 /</samp> &nbsp; <b><a href="https://github.com/Awadul/NUST-Policy-Document-RAG-System">NUST Student Guide ↗</a></b><br />Searchable answers from university policies.<br /><sub>Python / TF-IDF / MinHash LSH / SimHash</sub></p>
-
-<p><samp>03 /</samp> &nbsp; <b><a href="https://github.com/Mid0aria/DiscordQuestManager/pull/1">DiscordQuestManager ↗</a></b><br />Proposed fixes for client compatibility.<br /><sub>TypeScript / React / Open-source contribution</sub></p>
-
-<br />
-
-<p><samp>STACK</samp><br />TypeScript · React · Next.js · Node.js · Python · PostgreSQL</p>
-
-<p><samp>CONNECT</samp><br /><a href="https://awadul.github.io/">Portfolio ↗</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/muhammad-awais-abdullah-0a588b330/">LinkedIn ↗</a> &nbsp; / &nbsp; <a href="mailto:awaisabdullahm79@gmail.com">Email ↗</a></p>
+<p align="center"><b><a href="https://awadul.github.io/">PORTFOLIO ↗︎</a> &nbsp; / &nbsp; <a href="https://www.linkedin.com/in/muhammad-awais-abdullah-0a588b330/">LINKEDIN ↗︎</a> &nbsp; / &nbsp; <a href="mailto:awaisabdullahm79@gmail.com">LET'S BUILD ↗︎</a></b></p>

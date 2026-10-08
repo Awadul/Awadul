@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<title id="title">Muhammad Awais Abdullah — Full-stack developer</title>
+<desc id="desc">A colorful terminal with a full-stack developer introduction, interface-to-backend workflow, and availability for internships, freelance, and part-time remote work.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d1725"/><stop offset="1" stop-color="#0b1019"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#5cf0b0"/><stop offset=".55" stop-color="#61c8ff"/><stop offset="1" stop-color="#bf9bff"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#4fdbaa" stop-opacity=".14"/><stop offset="1" stop-color="#4fdbaa" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#293449" stroke-opacity=".35"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="518" rx="20" fill="url(#bg)" stroke="#33435a" stroke-width="2"/>
+<rect x="2" y="2" width="1196" height="516" rx="19" fill="url(#grid)"/>
+<ellipse cx="930" cy="290" rx="320" ry="240" fill="url(#glow)"/>
+<path d="M20 1H1180" stroke="url(#edge)" stroke-width="3"/>
+<path d="M2 58H1198" stroke="#33435a"/>
+<circle cx="30" cy="30" r="7" fill="#ff7878"/><circle cx="54" cy="30" r="7" fill="#ffd479"/><circle cx="78" cy="30" r="7" fill="#5cf0b0"/>
+<g font-family="Consolas,Menlo,monospace"><text x="104" y="36" fill="#a4b3c6" font-size="17">awais@github: ~/build-something-useful</text><text x="1080" y="36" fill="#5cf0b0" font-size="15">ONLINE</text>
+<text x="42" y="108" fill="#5cf0b0" font-size="20">$ whoami</text>
+<text x="42" y="196" fill="#f0f5ff" font-size="67" font-weight="700">Awais Abdullah<tspan fill="#5cf0b0">_</tspan></text>
+<text x="44" y="240" fill="#61c8ff" font-size="24">FULL-STACK DEVELOPER</text>
+<text x="44" y="284" fill="#b7c5d8" font-size="21">Interfaces. Backends. Practical automation.</text>
+<text x="44" y="316" fill="#b7c5d8" font-size="21">You got an idea, let's work it out.</text>
+<rect x="42" y="351" width="612" height="45" rx="8" fill="#153329" stroke="#2a694f"/>
+<circle cx="61" cy="374" r="5" fill="#5cf0b0"/><text x="76" y="381" fill="#b8f6d9" font-size="17">INTERNSHIPS / FREELANCE / PART-TIME REMOTE</text>
+<text x="44" y="469" fill="#7e92ab" font-size="17">NUST · CS 2027</text><text x="1095" y="469" fill="#7e92ab" font-size="17" text-anchor="end">@Awadul</text>
+<g transform="translate(815 114)">
+<rect width="330" height="94" rx="12" fill="#132e29" stroke="#326b56"/><text x="20" y="34" fill="#5cf0b0" font-size="15">01 / INTERFACE</text><text x="20" y="70" fill="#eef5ff" font-size="25">React + Next.js</text>
+<path d="M165 95V123" stroke="#5cf0b0" stroke-width="2"/><path d="m160 116 5 7 5-7" fill="none" stroke="#5cf0b0" stroke-width="2"/>
+<rect y="126" width="330" height="94" rx="12" fill="#142a3d" stroke="#315f7f"/><text x="20" y="160" fill="#61c8ff" font-size="15">02 / BACKEND</text><text x="20" y="196" fill="#eef5ff" font-size="25">Node.js + Python</text>
+<path d="M165 221V249" stroke="#61c8ff" stroke-width="2"/><path d="m160 242 5 7 5-7" fill="none" stroke="#61c8ff" stroke-width="2"/>
+<rect y="252" width="330" height="70" rx="12" fill="#29213a" stroke="#605080"/><text x="20" y="295" fill="#cfb4ff" font-size="21">Data → Useful output</text>
+</g></g>
+</svg>

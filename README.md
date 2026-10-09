@@ -1,67 +1,92 @@
 <h1 align="center">awais@nust:~$ whoami</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=61F7E6&background=080B18&center=true&vCenter=true&width=620&height=40&lines=Full+stack+developer;CS+student+at+NUST%2C+class+of+2027;Open+to+internships+and+freelance+work" alt="Full stack developer. CS student at NUST, class of 2027. Open to internships and freelance work." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=61F7E6&background=080B18&center=true&vCenter=true&width=640&height=40&lines=Full+stack+developer+%7C+AI+engineering;CS+student+at+NUST%2C+class+of+2027;Open+to+internships+and+freelance+work" alt="Full stack developer and AI engineering. CS student at NUST, class of 2027. Open to internships and freelance work." />
 </p>
 
 ```console
 awais@nust:~$ neofetch
 
-  ┌──────────────────────────────────────────┐
-  │  user      Awais Abdullah (Awadul)       │
-  │  role      Full stack developer          │
-  │  edu       BS Computer Science, NUST     │
-  │  grad      2027                          │
-  │  since     Freelancing from Jan 2025     │
-  │  status    Open to internships + freelance│
-  │  shell     TypeScript / Node             │
-  └──────────────────────────────────────────┘
+  ┌─────────────────────────────────────────────┐
+  │  user     Awais Abdullah (Awadul)           │
+  │  role     Full stack developer              │
+  │  focus    AI integration, RAG, automation   │
+  │  edu      BS Computer Science, NUST         │
+  │  grad     2027                              │
+  │  since    Freelancing from Jan 2025         │
+  │  status   Open to internships and freelance │
+  │  shell    TypeScript, Node.js               │
+  └─────────────────────────────────────────────┘
 ```
+
+---
 
 ```console
-awais@nust:~$ cat skills.txt
-```
-
-```yaml
-frontend:
-  languages: [TypeScript, JavaScript]
-  frameworks: [React, Next.js]
-  styling: [Tailwind CSS, Framer Motion]
-
-backend:
-  runtime: Node.js
-  framework: Express
-  also: Python
-
-ai:
-  apis: [OpenAI]
-  patterns: [RAG, prompt pipelines, document extraction]
-
-data:
-  sql: [PostgreSQL, Prisma]
-  nosql: [MongoDB]
-  platform: Supabase
-
-tools:
-  [Git, GitHub, GitHub Copilot, Figma, Claude]
+awais@nust:~$ ls skills/backend/
 ```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-080B18?style=flat-square&logo=typescript&logoColor=61F7E6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-080B18?style=flat-square&logo=javascript&logoColor=61F7E6" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-080B18?style=flat-square&logo=react&logoColor=61F7E6" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-080B18?style=flat-square&logo=nextdotjs&logoColor=61F7E6" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-080B18?style=flat-square&logo=nodedotjs&logoColor=61F7E6" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-080B18?style=flat-square&logo=express&logoColor=61F7E6" alt="Express" />
-  <img src="https://img.shields.io/badge/Python-080B18?style=flat-square&logo=python&logoColor=61F7E6" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-080B18?style=flat-square&logo=openai&logoColor=61F7E6" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/PostgreSQL-080B18?style=flat-square&logo=postgresql&logoColor=B38AFF" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-080B18?style=flat-square&logo=mongodb&logoColor=B38AFF" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-080B18?style=flat-square&logo=supabase&logoColor=B38AFF" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Prisma-080B18?style=flat-square&logo=prisma&logoColor=B38AFF" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-080B18?style=flat-square&logo=tailwindcss&logoColor=B38AFF" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Git-080B18?style=flat-square&logo=git&logoColor=B38AFF" alt="Git" />
+  <img src="https://img.shields.io/badge/Node.js-0F1629?style=for-the-badge&logo=nodedotjs&logoColor=61F7E6" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-0F1629?style=for-the-badge&logo=express&logoColor=61F7E6" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-0F1629?style=for-the-badge&logoColor=61F7E6" alt="REST API" />
+  <img src="https://img.shields.io/badge/Postman-0F1629?style=for-the-badge&logo=postman&logoColor=61F7E6" alt="Postman" />
 </p>
+
+```console
+awais@nust:~$ ls skills/frontend/
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-0F1629?style=for-the-badge&logo=nextdotjs&logoColor=61F7E6" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0F1629?style=for-the-badge&logo=react&logoColor=61F7E6" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-0F1629?style=for-the-badge&logo=html5&logoColor=61F7E6" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-0F1629?style=for-the-badge&logo=css3&logoColor=61F7E6" alt="CSS" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F1629?style=for-the-badge&logo=tailwindcss&logoColor=61F7E6" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Figma_MCP-0F1629?style=for-the-badge&logo=figma&logoColor=61F7E6" alt="Figma MCP" />
+</p>
+
+```console
+awais@nust:~$ ls skills/databases/
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-0F1629?style=for-the-badge&logo=mongodb&logoColor=B38AFF" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-0F1629?style=for-the-badge&logo=postgresql&logoColor=B38AFF" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-0F1629?style=for-the-badge&logoColor=B38AFF" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/Vector_DB-0F1629?style=for-the-badge&logoColor=B38AFF" alt="Vector DB" />
+  <img src="https://img.shields.io/badge/Chroma-0F1629?style=for-the-badge&logoColor=B38AFF" alt="Chroma" />
+  <img src="https://img.shields.io/badge/IndexedDB-0F1629?style=for-the-badge&logo=googlechrome&logoColor=B38AFF" alt="IndexedDB" />
+</p>
+
+```console
+awais@nust:~$ ls skills/ai_and_automation/
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI_Integration-0F1629?style=for-the-badge&logo=openai&logoColor=61F7E6" alt="AI Integration" />
+  <img src="https://img.shields.io/badge/AI_Engineering-0F1629?style=for-the-badge&logoColor=61F7E6" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/RAG-0F1629?style=for-the-badge&logoColor=61F7E6" alt="RAG" />
+  <img src="https://img.shields.io/badge/Python_Automation-0F1629?style=for-the-badge&logo=python&logoColor=B38AFF" alt="Python Automation" />
+  <img src="https://img.shields.io/badge/Playwright-0F1629?style=for-the-badge&logo=playwright&logoColor=B38AFF" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Data_Scraping-0F1629?style=for-the-badge&logoColor=B38AFF" alt="Data Scraping" />
+  <img src="https://img.shields.io/badge/Data_Extraction-0F1629?style=for-the-badge&logoColor=B38AFF" alt="Data Extraction" />
+  <img src="https://img.shields.io/badge/Console_Scripting-0F1629?style=for-the-badge&logo=gnubash&logoColor=61F7E6" alt="Console Scripting" />
+  <img src="https://img.shields.io/badge/Browser_Extensions-0F1629?style=for-the-badge&logo=googlechrome&logoColor=61F7E6" alt="Browser Extensions" />
+</p>
+
+```console
+awais@nust:~$ ls skills/tools/
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0F1629?style=for-the-badge&logo=git&logoColor=B38AFF" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0F1629?style=for-the-badge&logo=github&logoColor=B38AFF" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Copilot-0F1629?style=for-the-badge&logo=githubcopilot&logoColor=B38AFF" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Figma-0F1629?style=for-the-badge&logo=figma&logoColor=B38AFF" alt="Figma" />
+  <img src="https://img.shields.io/badge/Claude-0F1629?style=for-the-badge&logo=anthropic&logoColor=B38AFF" alt="Claude" />
+</p>
+
+---
 
 ```console
 awais@nust:~$ ls projects/
@@ -69,9 +94,14 @@ awais@nust:~$ ls projects/
 
 | Project | What it does | Stack | Link |
 | :-- | :-- | :-- | :-- |
-| `ai_cv_platform/` | Upload a CV, extract it, customize it with AI, preview it live | Next.js, Node, OpenAI | [Live demo](https://cv.commit-offshore.com/) |
-| `nust_student_guide/` | Ask questions over NUST policy documents using retrieval augmented generation | Python, RAG | [Code](https://github.com/Awadul/NUST-Policy-Document-RAG-System) |
+| `ai_cv_platform/` | Extracts CV data into structured JSON with parallel GPT 4o calls, live preview, PDF export | React, Node.js, Express, OpenAI | [Live demo](https://cv.commit-offshore.com/) |
+| `nust_policy_qa_bot/` | RAG over NUST policy documents. Hybrid retrieval (TF IDF, MinHash LSH, SimHash) that returns exact page numbers and matched passages | Python, RAG | [Code](https://github.com/Awadul/NUST-Policy-Document-RAG-System) |
+| `PDFSafe/` | PDF malware scanner using static structural analysis, 23 weighted rules into a risk score, plus AI explanations | Python, AI integration | [Code](https://github.com/Awadul/PDFSafe) |
+| `SwiftBite/` | Food delivery platform: four Next.js portals in a Turborepo, real time GPS over Socket.io | Next.js, Express, Prisma, PostgreSQL, Redis | University project, I led it |
+| `radwi_website/` | Company website built during a web development internship at RADWI Electronics | Web | [rad-wi.com](https://rad-wi.com) |
 | `DiscordQuestManager/` | Open source contribution to an existing project | JavaScript | [Pull request](https://github.com/Mid0aria/DiscordQuestManager/pull/1) |
+
+---
 
 ```console
 awais@nust:~$ git log --stat
@@ -94,6 +124,8 @@ awais@nust:~$ git log --stat
   <sub>Pull Shark ×2 · YOLO · Live public stats, language mix reflects code volume</sub>
 </p>
 
+---
+
 ```console
 awais@nust:~$ ./contact.sh
 ```
@@ -105,5 +137,3 @@ awais@nust:~$ ./contact.sh
     <a href="mailto:awaisabdullahm79@gmail.com">EMAIL ↗︎</a>
   </b>
 </p>
-
-<p align="center"><sub>awais@nust:~$ <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1200&pause=600&color=61F7E6&background=00000000&width=20&height=18&lines=_;+" alt="" /></sub></p>

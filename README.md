@@ -94,7 +94,7 @@ awais@nust:~$ ls projects/
 
 | Project | What it does | Stack | Link |
 | :-- | :-- | :-- | :-- |
-| `ai_cv_platform/` | Extracts CV data into structured JSON with parallel GPT 4o calls, live preview, PDF export | React, Node.js, Express, OpenAI | [Live demo](https://cv.commit-offshore.com/) |
+| `ai_cv_platform/` | Extracts CV data into structured JSON with parallel GPT 4o calls, live preview, PDF export | React, Node.js, Express, OpenAI | [Live demo](https://mynext9to5.com/) |
 | `nust_policy_qa_bot/` | RAG over NUST policy documents. Hybrid retrieval (TF IDF, MinHash LSH, SimHash) that returns exact page numbers and matched passages | Python, RAG | [Code](https://github.com/Awadul/NUST-Policy-Document-RAG-System) |
 | `PDFSafe/` | PDF malware scanner using static structural analysis, 23 weighted rules into a risk score, plus AI explanations | Python, AI integration | [Code](https://github.com/Awadul/PDFSafe) |
 | `SwiftBite/` | Food delivery platform: four Next.js portals in a Turborepo, real time GPS over Socket.io | Next.js, Express, Prisma, PostgreSQL, Redis | University project, I led it |

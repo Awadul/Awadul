@@ -1,7 +1,7 @@
 <h1 align="center">awais@nust:~$ whoami</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=61F7E6&background=080B18&center=true&vCenter=true&width=640&height=40&lines=Full+stack+developer+%7C+AI+engineering;CS+student+at+NUST%2C+class+of+2027;Open+to+internships+and+freelance+work" alt="Full stack developer and AI engineering. CS student at NUST, class of 2027. Open to work | Avalability: true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=61F7E6&background=080B18&center=true&vCenter=true&width=640&height=40&lines=Full+stack+developer+%7C+AI+engineering;CS+student+at+NUST%2C+class+of+2027;Open+to+internships+and+freelance+work" alt="Full stack developer and AI engineering. CS student at NUST, class of 2027. Availability: true" />
 </p>
 
 ```console
